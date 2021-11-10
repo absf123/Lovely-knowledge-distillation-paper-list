@@ -4,31 +4,31 @@ knowledge distillation paper list (focusing graph neural network)
 
 ## Contents
 
-- [Knowledge distillation types](#knowledge distillation types)
-  - [Individual KD : Conventional KD](#individual kd) 
+- [Knowledge distillation types](#knowledgedistillationtypes)
+  - [Individual KD : Conventional KD](#ikd) 
     - [logits](#logits)
-    - [feature map](#feature map)
-  - [Relational KD](#relational kd)
-- [Multi teacher](#multi teacher)
-- [Self KD](#self kd)
-- [Graph KD](#graph kd)
-- [Amalgamating KD](#amalgamating kd)
-<a name="knowledge distillation types" />
+    - [feature map](#featuremap)
+  - [Relational KD](#rkd)
+- [Multi teacher](#multiteacher)
+- [Self KD](#selfkd)
+- [Graph KD](#graphkd)
+- [Amalgamating KD](#amalgamatingkd)
+<a name="knowledgedistillationtypes" />
 
 ## Knowledge distillation types
 
-<a name="multi teacher" />
+<a name="multiteacher" />
 
 ## Multi teacher
 
-<a name="self kd" />
+<a name="selfkd" />
 
 ## Self KD
 
-<a name="graph kd" />
+<a name="graphkd" />
 
 ## Graph KD
 
-<a name="amalgamating kd" />
+<a name="amalgamatingkd" />
 
 ## Amalgamating KD
