@@ -13,6 +13,7 @@ knowledge distillation paper list (focusing graph neural network)
 - [Self KD](#selfkd)
 - [Graph KD](#graphkd)
 - [Amalgamating KD](#amalgamatingkd)
+- [2021 : Major conference paper](#mcp)
 <a name="knowledgedistillationtypes" />
 
 ## Knowledge distillation types
@@ -32,3 +33,7 @@ knowledge distillation paper list (focusing graph neural network)
 <a name="amalgamatingkd" />
 
 ## Amalgamating KD
+
+<a name="mcp" />
+
+## 2021 : Major conference paper
